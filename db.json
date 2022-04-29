@@ -7,5 +7,24 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "orden-detalle": {
+    "numero-order": "1234ARG"
+    "provedor": {
+      "nombre": "Tecnoplantsrl"
+    }
+    "fecha-order": "",
+    "productos-order": [
+      {1, "Fertilizante nitrogenado 200L ML34"},
+      {1, "Fertilizante genérico 100L ML12"}
+    ],
+    "medio-pago": [ 
+      { 
+        "medio": "Paga con crédito a sola firma", 
+        "tna": "33%", 
+        "vencimiento": "Abril 10 del 2023 cuota TNA 33%",
+        "valor": 1.223.000,
+        "informacion": "Medio de pago disponible hasta Abril 8 del 2022."
+    ]
   }
 }
